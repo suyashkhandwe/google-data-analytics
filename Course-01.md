@@ -112,6 +112,8 @@ The five key aspects of analytical thinking are:
 - `Root cause`: The reason why a problem occurs
 - `Technical mindset`: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
 
+----
+
 ## Module 2
 
 ### Stages of Data Life Cycle
@@ -142,4 +144,8 @@ Following are the stages for data life cycle
 - `Stakeholders`: People who invest time and resources into a project and are interested in its outcome
 - `Structured Query Language` / `SQL`: A computer programming language used to communicate with a database
 - `Spreadsheet`: A digital worksheet
+
+----
+
+## Module 3
 

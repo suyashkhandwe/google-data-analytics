@@ -115,3 +115,6 @@ The five key aspects of analytical thinking are:
 - `Gap analysis`: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 - `Root cause`: The reason why a problem occurs
 - `Technical mindset`: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+
+- [Course 1](./Course-01.md)
+

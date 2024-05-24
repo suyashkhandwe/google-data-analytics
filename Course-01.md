@@ -149,3 +149,9 @@ Following are the stages for data life cycle
 
 ## Module 3
 
+- An `attribute` is a characteristic or quality of data used to label a column in a table.
+- In a dataset, a row is also called an `observation`.
+    - An `observation` includes all of the attributes for something contained in a row of a data table.
+
+> [!NOTE]
+> `Spreadsheets` and `SQL` are the most commonly used data analysis tools.

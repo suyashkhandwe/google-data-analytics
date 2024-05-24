@@ -9,7 +9,7 @@ This documents covers the notes from the Google Data Analytics course.
 - Businesses need a way to control all that data so they can use it to improve processes, identify opportunities and trends, launch new products, serve customers, and make thoughtful decisions. 
 - The more detailed definition is that data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making. 
 
-#### The six steps of the `data analysis` process
+#### The six steps of the data analysis process
 
 These six steps apply to any data analysis.
 
@@ -43,7 +43,7 @@ These six steps apply to any data analysis.
 > [!TIP]
 > Additional reference - [“4 Examples of Business Analytics in Action”](https://online.hbs.edu/blog/post/business-analytics-examples)
 
-#### Types of `Data Analytics`
+#### Types of Data Analytics
 
 - EMC Corporation's (now Dell EMC) `Cyclical` data analytics process has six steps:
     - Discovery
@@ -77,7 +77,7 @@ These six steps apply to any data analysis.
     - Data visualization
     - Utilization of analysis results
 
-#### The five essential skills of a `data analyst`
+#### The five essential skills of a data analyst
 
 - `Curiosity`: all about wanting to learn something.
 - `Understanding context`: the condition in which something exists or happens.

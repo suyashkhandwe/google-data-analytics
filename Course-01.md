@@ -1,15 +1,13 @@
-# Google Data Analytics
+# Google Data Analytics - Course 1
 
-This documents covers the notes from the Google Data Analytics course.
+This document covers the notes from the Google Data Analytics course - Course 1
 
-## Course 1
-
-### Module 1
+## Module 1
 
 - Businesses need a way to control all that data so they can use it to improve processes, identify opportunities and trends, launch new products, serve customers, and make thoughtful decisions.
 - The more detailed definition is that data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
-#### The six steps/phases of the data analysis process
+### The six steps/phases of the data analysis process
 
 These six steps apply to any data analysis.
 
@@ -44,7 +42,7 @@ These six steps apply to any data analysis.
 > [!TIP]
 > Additional reference - [“4 Examples of Business Analytics in Action”](https://online.hbs.edu/blog/post/business-analytics-examples)
 
-#### Types of Data Analytics
+### Types of Data Analytics
 
 - EMC Corporation's (now Dell EMC) `Cyclical` data analytics process has six steps:
   - Discovery
@@ -78,7 +76,7 @@ These six steps apply to any data analysis.
   - Data visualization
   - Utilization of analysis results
 
-#### The five essential skills of a data analyst
+### The five essential skills of a data analyst
 
 - `Curiosity`: all about wanting to learn something.
 - `Understanding context`: the condition in which something exists or happens.
@@ -86,7 +84,7 @@ These six steps apply to any data analysis.
 - `Data design`: how you organize information.
 - `Data strategy`: management of the people, processes, and tools used in data analysis.
 
-#### `Analytical Thinking`
+### `Analytical Thinking`
 
 The five key aspects of analytical thinking are:
 
@@ -100,7 +98,7 @@ The five key aspects of analytical thinking are:
 
 - `big-picture and detail-oriented thinking`: means being able to see the big picture as well as the details.
 
-#### Module 1 Glossary
+### Module 1 Glossary
 
 - `Analytical skills`: Qualities and characteristics associated with using facts to solve problems
 - `Analytical thinking`: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
@@ -120,7 +118,7 @@ The five key aspects of analytical thinking are:
 - `Root cause`: The reason why a problem occurs
 - `Technical mindset`: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
 
-### Module 2
+## Module 2
 
 #### Stages of Data Life Cycle
 

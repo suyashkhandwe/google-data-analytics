@@ -1,4 +1,4 @@
-# Google Data Analytics - Course 1
+# Course 1 : Foundations: Data, Data, Everywhere
 
 This document covers the notes from the Google Data Analytics course - Course 1
 

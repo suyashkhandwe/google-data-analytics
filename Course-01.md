@@ -12,30 +12,24 @@ This document covers the notes from the Google Data Analytics course - Course 1
 These six steps apply to any data analysis.
 
 1. `ask`: business challenge, objective, or question
-
    - In the `ask phase`, you’ll work to understand the challenge to be solved or the question to be answered.
    - It will likely be assigned to you by stakeholders.
    - As this is the `ask phase`, you’ll ask many questions to help you along the way.
-1. `prepare`: data generation, collection, storage, and data management
-
+2. `prepare`: data generation, collection, storage, and data management
    - In the `prepare phase` you’ll find and collect the data you'll need to answer your questions.
    - You’ll identify data sources, gather data, and verify that it is accurate and useful for answering your questions.
-1. `process`: data cleaning and data integrity
-
+3. `process`: data cleaning and data integrity
    - The `process phase` is when you will clean and organize your data.
    - Tasks you perform here include removing any inconsistencies, filling in missing values; and, in many cases, changing the data to a format that's easier to work with.
    - Essentially, you’re ensuring the data is ready before you begin analysis.
-1. `analyze`: data exploration, visualization, and analysis
-
+4. `analyze`: data exploration, visualization, and analysis
    - The `analyze phase` is when you do the necessary data analysis to uncover answers and solutions.
    - Depending on the situation and the data, this could involve tasks such as calculating averages or counting items in categories so you can examine trends and patterns.
-1. `share`: communicating and interpreting results
-
+5. `share`: communicating and interpreting results
    - The `share phase` is when you present your findings to decision-makers through a report, presentation, or data visualization.
    - As part of the `share phase`, you decide which medium you want to use to share your findings and select the data to include.
    - Tools for presenting data visually include charts made in Google Sheets, Tableau, and R.
-1. `act`: putting insights to work to solve the problem
-
+6. `act`: putting insights to work to solve the problem
    - Last is the `act phase`, in which you and others in the company put the data insights into action.
    - This could mean implementing a new business strategy, making changes to a website, or any other action that solves the initial problem.
 
@@ -120,7 +114,7 @@ The five key aspects of analytical thinking are:
 
 ## Module 2
 
-#### Stages of Data Life Cycle
+### Stages of Data Life Cycle
 
 Following are the stages for data life cycle 
 1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
@@ -137,5 +131,15 @@ Following are the stages for data life cycle
 
 > [!CAUTION]
 > As a quick note, when you maintain a database of customer information, ensuring data integrity, credibility, and privacy are all important concerns. 
- 
+
+### ### Module 2 Glossary
+
+- `Database`: A collection of data stored in a computer system
+- `Formula`: A set of instructions used to perform a calculation using the data in a spreadsheet
+- `Function`: A preset command that automatically performs a specified process or task using the data in a spreadsheet
+- `Query`: A request for data or information from a database
+- `Query language`: A computer programming language used to communicate with a database
+- `Stakeholders`: People who invest time and resources into a project and are interested in its outcome
+- `Structured Query Language` / `SQL`: A computer programming language used to communicate with a database
+- `Spreadsheet`: A digital worksheet
 

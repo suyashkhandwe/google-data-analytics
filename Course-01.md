@@ -203,7 +203,7 @@ To name a few others that sound similar but may not be the same role:
 - `Data specialist` — organizes or converts data for use in databases or software systems
 - `Operations analyst` — analyzes data to assess the performance of business operations and workflows
 
-![alt text](./images/module-4.png)
+![alt text](./images/course-1-module-4.png)
 
 ### Module 4 Glossary
 

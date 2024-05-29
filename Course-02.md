@@ -363,7 +363,7 @@ By definition, stakeholders are people who have invested time, interest, and res
 
 #### Data science team
 
-[Venn diagram with three overlapping circles: Mathematics and statistics, Computer science, and Business domain knowledge](/images/course-2-module-4.png)
+[Mathematics - statistics - Computer science - Business domain knowledge](/images/course-2-module-4.png)
 
 #### Working with stakeholders
 

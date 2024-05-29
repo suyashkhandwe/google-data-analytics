@@ -409,9 +409,6 @@ By definition, stakeholders are people who have invested time, interest, and res
 >   - What they need to know?
 >   - How you can communicate that effectively to them?
 
-> [!TIP]
-> 
-
 ### Teamwork
 
 Meeting Dos - 

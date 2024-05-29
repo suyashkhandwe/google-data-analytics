@@ -337,3 +337,96 @@ The three most common categories are:
 - `Scope of work (SOW)`: An agreed-upon outline of the tasks to be performed during a project
 - `Sorting`: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
 - `SUM`: A spreadsheet function that adds the values of a selected range of cells
+
+## Module 4
+
+### Balance team and stakeholders needs
+
+By definition, stakeholders are people who have invested time, interest, and resources into the project.
+
+#### Types of stakeholders
+
+##### Executive team
+
+- The executive team provides strategic and operational leadership to the company.
+- They set goals, develop strategy, and make sure that strategy is executed effectively.
+- The executive team might include vice presidents, the chief marketing officer, and senior-level professionals who help plan and direct the company’s work.
+- These stakeholders think about decisions at a very high level and they are looking for the headline news about your project first.
+- They are less interested in the details.
+
+##### Customer-facing team
+
+- The customer-facing team includes anyone in an organization who has some level of interaction with customers and potential customers.
+- Typically they compile information, set expectations, and communicate customer feedback to other parts of the internal organization.
+- These stakeholders have their own objectives and may come to you with specific asks.
+- It is important to let the data tell the story and not be swayed by asks from your stakeholders to find certain patterns that might not exist. 
+
+#### Data science team
+
+[Venn diagram with three overlapping circles: Mathematics and statistics, Computer science, and Business domain knowledge](/images/course-2-module-4.png)
+
+#### Working with stakeholders
+
+- `Discuss goals`
+  - Stakeholder requests are often tied to a bigger project or goal.
+  - When they ask you for something, take the opportunity to learn more.
+  - Start a discussion. Ask about the kind of results the stakeholder wants.
+- `Feel empowered to say “no.”`
+  - Stakeholders don’t always realize the time and effort that goes into collecting and analyzing data.
+  - They also might not know what they actually need.
+  - You can help stakeholders by asking about their goals and determining whether you can deliver what they need. If you can’t, have the confidence to say “no,” and provide a respectful explanation.
+- `Plan for the unexpected`
+  - Before you start a project, make a list of potential roadblocks.
+  - Then, when you discuss project expectations and timelines with your stakeholders, give yourself some extra time for problem-solving at each stage of the process.
+- `Know your project`
+  - Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization.
+- `Start with words and visuals`
+  - It is common for data analysts and stakeholders to interpret things in different ways while assuming the other is on the same page.
+  - This illusion of agreement* has been historically identified as a cause of projects going back-and-forth a number of times before a direction is finally nailed down.
+  - To help avoid this, start with a description and a quick visual of what you are trying to convey.
+  - Stakeholders have many points of view and may prefer to absorb information in words or pictures.
+  - Work with them to make changes and improvements from there.
+  - The faster everyone agrees, the faster you can perform the first analysis to test the usefulness of the project, measure the feedback, learn from the data, and implement changes.
+- `Communicate often`
+  - Share notes about project milestones, setbacks, and changes.
+  - Then use your notes to create a shareable report.
+  - Another great resource to use is a change-log, which is a tool that will be explored further throughout the program.
+    - `Change-log` is a file containing a chronologically ordered list of modifications made to a project.
+    - Depending on the way you set it up, stakeholders can even pop in and view updates whenever they want.
+
+> [!TIP]
+> Balancing everyone's needs can be a little chaotic sometimes. There are three things you can focus on that will help you stay on task.
+> 1. Who are the primary and secondary stakeholders?
+> 2. Who is managing the data?
+> 3. Where can you go for help? 
+
+### Communication
+
+> [!NOTE]
+> Before putting together a presentation or sending an e-mail, think about - 
+>   - Who your audience is?
+>   - What they already know?
+>   - What they need to know?
+>   - How you can communicate that effectively to them?
+
+> [!TIP]
+> 
+
+### Teamwork
+
+Meeting Dos - 
+- Come prepared
+- Be on time
+- Pay attention
+- Ask questions
+
+#### Conflict resolution
+
+- Reframe the problem
+- Discuss the conflict and context
+
+### Module 4 Glossary
+
+- `Cloud`: A place to keep data online, rather than a computer hard drive
+- `Reframing`: Restating a problem or challenge, then redirecting it toward a potential resolution
+- `Turnover rate`: The rate at which employees voluntarily leave a company

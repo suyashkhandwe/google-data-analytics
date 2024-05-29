@@ -350,6 +350,128 @@ Goals for data transformation might be:
 
 ## Module 2: Data responsibility
 
+### Biased and unbiased data
+
+- `Biased data`:
+  - Data that is not representative of the population
+  - An example is sampling bias.
+- `Unbiased data`: 
+  - Data that is representative of the population being measured
+  
+#### Types of biases
+
+- `Sampling bias`: when a sample isn't representative of the population as a whole.
+- `Observer bias`: sometimes referred to as `experimenter bias` or `research bias`. Basically, it's the tendency for different people to observe things differently.
+- `Interpretation bias`: the tendency to always interpret ambiguous situations in a positive, or negative way. Interpretation bias, can lead to two people seeing or hearing the exact same thing, and interpreting it in a variety of different ways, because they have different backgrounds, and experiences.
+- `Confirmation bias`: the tendency to search for, or interpret information in a way that confirms preexisting beliefs. Someone might be so eager to confirm a gut feeling, that they only notice things that support it, ignoring all other signals.
+
+### Data Credibility - Identifying good data sources
+
+- `ROCCC`
+  - `R`: Reliable
+    - Bad data is unreliable as it may be biased or inaccurate.
+  - `O`: Original
+    - It may not be able to track the source of data for bad data sources.
+  - `C`: Comprehensive
+  - `C`: Current
+  - `C`: Cited
+    - To determine if a data source is cited, ask the following questions
+      - Who created this dataset?
+      - When was this data last refreshed?
+      - Is this dataset from a credible organization?
+
+### Data ethics and privacy
+
+- While an exact definition is still under discussion in philosophy, one practical view is that `ethics` refers to well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness or specific virtues.
+- `Data ethics` refers to well-founded standards of right and wrong that dictate how data is collected, shared, and used.
+- There are lots of different aspects of `data ethics` like:
+  - `ownership`: This answers the question who owns data? 
+  - `transaction transparency`: the idea that all data processing activities and algorithms should be completely explainable and understood by the individual who provides their data. This helps avoid bias.
+  - `consent`: an individual's right to know explicit details about how and why their data will be used before agreeing to provide it. They should know answers to questions like - 
+    - Why is the data being collected?
+    - How will it be used?
+    - How long will it be stored?
+    - > The best way to give consent is probably a conversation between the person providing the data and the person requesting it. 
+  - `currency`: Individuals should be aware of financial transactions resulting from the use of their personal data and the scale of these transactions.
+    - If your data is helping to fund a company's efforts, you should know what those efforts are all about and be given the opportunity to opt out.
+  - `privacy`: When talking about data, privacy means preserving a data subject's information and activity any time a data transaction occurs.
+    - This is sometimes called `information privacy` or `data protection`.
+    - It's all about access, use, and collection of data.
+    - It also covers a person's legal right to their data.
+    > - This means someone like you or me should have protection from unauthorized access to our private data, freedom from inappropriate use of our data, the right to inspect, update, or correct our data, ability to give consent to use our data, and legal right to access our data. 
+    - Read [Data anonymization](./Course-03.md#data-anonymization)
+  - `openness`: refers to free access, usage and sharing of data.
+    - - Read [Open Data](./Course-03.md#open-data)
+
+
+#### Data anonymization
+
+> [!NOTE]
+> Personally identifiable information, or PII, is information that can be used by itself or with other data to track down a person's identity. 
+
+- `Data anonymization` is the process of protecting people's private or sensitive data by eliminating that kind of information.
+- Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values.
+
+**What types of data should be anonymized?**
+- Healthcare and financial data are two of the most sensitive types of data.
+- These industries rely a lot on data anonymization techniques.
+- Data in these two industries usually goes through de-identification, which is a process used to wipe data clean of all PII.
+- Here is a list of data that is often anonymized:
+  - Telephone numbers
+  - Names
+  - License plates and license numbers
+  - Social security numbers
+  - IP addresses
+  - Medical records
+  - Email addresses
+  - Photographs
+  - Account numbers
+
+#### Open Data
+
+- In data analytics, `open data` is part of data ethics, which has to do with using data ethically.
+- Openness refers to free access, usage, and sharing of data.
+- But for data to be considered open, it has to:
+  - Be available and accessible to the public as a complete dataset
+  - Be provided under terms that allow it to be reused and redistributed
+  - Allow universal participation so that anyone can use, reuse, and redistribute the data
+- > Data can only be considered open when it meets all three of these standards. 
+- Benefits of `openness` / `open data` -
+  - credible databases can be used more widely.
+  - all of that good data can be leveraged, shared, and combined with other data.
+- Some examples of open data sources are -
+  - [U.S. government data site](https://www.data.gov/)
+  - [U.S. Census Bureau](https://www.census.gov/data.html)
+  - [Open Data Network](https://www.opendatanetwork.com/)
+  - [Google Cloud Public Datasets](https://cloud.google.com/datasets)
+  - [Dataset Search](https://datasetsearch.research.google.com/)
+
+### Module 2 Glossary
+
+- `Bad data source`: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC)
+- `Bias`: A conscious or subconscious preference in favor of or against a person, group of people, or thing
+- `Confirmation bias`: The tendency to search for or interpret information in a way that confirms pre-existing beliefs
+- `Consent`: The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it
+- `Cookie`: A small file stored on a computer that contains information about its users
+- `Currency`: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
+- `Data anonymization`: The process of protecting people's private or sensitive data by eliminating identifying information
+- `Data bias`: When a preference in favor of or against a person, group of people, or thing systematically skews data analysis results in a certain direction
+- `Data ethics`: Well-founded standards of right and wrong that dictate how data is collected, shared, and used
+- `Data interoperability`: A key factor leading to the successful use of open data among companies and governments
+- `Data privacy`: Preserving a data subject’s information any time a data transaction occurs
+- `Ethics`: Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues
+- `Experimenter bias`: The tendency for different people to observe things differently (also called `observer bias`)
+- `Fairness`: A quality of data analysis that does not create or reinforce bias
+- `First-party data`: Data collected by an individual or group using their own resources
+- `Good data source`: A data source that is reliable, original, comprehensive, current, and cited (ROCCC)
+- `Interpretation bias`: The tendency to interpret ambiguous situations in a positive or negative way
+- `Observer bias`: The tendency for different people to observe things differently (also called `experimenter bias`)
+- `Open data`: Data that is available to the public
+- `Openness`: The aspect of data ethics that promotes the free access, usage, and sharing of data
+- `Sampling bias`: Over representing or under representing certain members of a population as a result of working with a sample that is not representative of the population as a whole
+- `Transaction transparency`: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
+- `Unbiased sampling`: When the sample of the population being measured is representative of the population as a whole
+
 ## Module 3: Database essentials
 
 ## Module 4: Organize and protect data

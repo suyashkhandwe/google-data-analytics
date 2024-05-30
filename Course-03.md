@@ -623,8 +623,6 @@ There are plenty of best practices you can use when organizing data, including
 
 [Course 3 Glossary](https://docs.google.com/document/d/1rpbLSEGdqY382UvmschkwD4bb5fn5TLFlan30oyXji0/template/preview#heading=h.o9l2dv7ck3uu)
 
-- Terms and definitions from Course 3
-
 - `Access control`: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet
 - `Administrative metadata`: Metadata that indicates the technical source of a digital asset
 - `Agenda`: A list of scheduled appointments

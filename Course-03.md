@@ -474,6 +474,117 @@ Goals for data transformation might be:
 
 ## Module 3: Database essentials
 
+### Relational databases
+
+- A `relational database` is a database that contains a series of tables that can be connected to form relationships. 
+- In a `non-relational table`, you will find all of the possible variables you might be interested in analyzing all grouped together. This can make it really hard to sort through.
+
+> [!NOTE]
+> `Normalization` is a process of organizing data in a `relational database`.
+> It is applied to eliminate data redundancy, increase data integrity, and reduce complexity in a database.
+
+#### Types of keys
+
+- `Primary Key` is an identifier that references a column in which each value is unique.
+    - The value assigned to the primary key in a particular row must be unique within the entire table.
+    - Only one primary key is allowed in a table and they cannot contain `null` or `blank` values.
+    - A primary key may also be constructed using multiple columns of a table. This type of primary key is called a `composite key`.
+- `Foreign Key` is a column in a table that provides a link between the data and two tables.
+  - A foreign key is a field within a table that is a primary key in another table.
+  - A table can have only one primary key, but it can have multiple foreign keys.
+
+### Metadata
+
+- `Metadata` is data about the data itself.
+- Types of metadata 
+  - `descriptive`: describes a piece of data and can be used to identify it at a later point in time.
+    - Example: IDs of student in a school or college.
+  - `structural`: indicates how a piece of data is organized and whether it's part of one or more than one data collection. 
+    - Example: Location of certain pieces of data.
+  - `administrative`: indicates the technical source of a digital asset
+    - Example: Size of a photo.
+
+#### Elements of metadata
+
+Following are some of the ky type of information bits metadata typically provides:
+- `File or document type`: What type of file or document are you examining?
+- `Date, time, and creator`: When was it created? Who created it? When was it last modified?
+- `Title and description`: What is the name of the item you are examining? What type of content does it contain?
+- `Geolocation`: If you’re examining a photo, where was it taken?
+- `Tags and categories`: What is the general overview of the item that you have? Is it indexed or described in a specific way?
+- `Who last modified it and when`: Were any changes made to the file? If yes, when were the most recent modifications made?
+- `Who can access or update it`: If you’re examining a dataset, is it public? Are special permissions needed to customize or modify it?
+
+#### The benefits of metadata
+
+- `Reliability`: Metadata helps data analysts confirm their data is reliable by making sure it is:
+  - Accurate
+  - Precise
+  - Relevant
+  - Timely
+- `Consistency`: When a database is consistent, it’s easier to discover relationships between the data inside the database and data that exists elsewhere. When data is uniform, it is:
+  - `Organized`: easily find tables and files, monitor the creation and alteration of assets, and store metadata.
+  - `Classified`: categorize data when it follows a consistent format, which is beneficial in cleaning and processing data.
+  - `Stored`: efficiently stored in various data repositories. This streamlines storage management tasks such as managing a database.
+  - `Accessed`: Users, applications, and systems can efficiently locate and use data.
+  
+#### Metadata repositories
+
+- `Metadata repositories` help ensure the data is reliable and consistent.
+- `Metadata repositories` are specialized databases specifically created to store and manage metadata.
+  - They can be kept in a physical location or a virtual environment—like data that exists in the cloud.
+- `Metadata repositories` describe where the metadata came from and store that data in an accessible form with a common structure.
+  - This provides a quick and easy access to the data.
+
+> [!NOTE]
+> `Data governance` is a process to ensure the formal management of an organization’s data assets.
+
+### CSVs
+
+> [!TIP]
+> - In Google Sheets, the `IMPORTRANGE` function can import all or part of a dataset from another Google Sheet.
+> - In Google Sheets, you can use the `IMPORTHTML` function to import the data from an HTML table (or list) on a web page.
+> - Sometimes data displayed on the web is in the form of a comma- or tab-delimited file. You can use the `IMPORTDATA` function in a Google Sheet to import data into a Google Sheet.
+
+- `Sorting`: The process of arranging data into a meaningful order to make it easier to understand, analyze, and visualize
+  - Typically, a single column is used to sort the data, however, it can be used to sort multiple columns using sorting over a range.
+- `Filtering`: The process of showing only the data that meets a specified criteria while hiding the rest.
+
+### Big Query and SQL
+
+- [Big Query sandbox](https://console.cloud.google.com/home/dashboard?project=big-query-public-data-424820)
+- Some `best practices`
+  - `snake_case` names for columns
+  - `CamelCase` names for tables
+  - Consider `indentation`
+  - `Multi-line comments`: Use `/*.....*/` comments
+
+> [!WARNING]
+> Most of the work here is done in the sandbox account of Big Query.
+
+### Module 3 Glossary
+
+- `Administrative metadata`: Metadata that indicates the technical source of a digital asset
+- `CSV (comma-separated values) file`: A delimited text file that uses a comma to separate values
+- `Data governance`: A process for ensuring the formal management of a company’s data assets
+- `Descriptive metadata`: Metadata that describes a piece of data and can be used to identify it at a later point in time
+- `Foreign key`: A field within a database table that is a primary key in another table (Refer to primary key)
+- `FROM`: The section of a query that indicates where the selected data comes from
+- `Geolocation`: The geographical location of a person or device by means of digital information
+- `Metadata`: Data about data
+- `Metadata repository`: A database created to store metadata
+- `Naming conventions`: Consistent guidelines that describe the content, creation date, and version of a file in its name
+- `Normalized database`: A database in which only related data is stored in each table
+- `Notebook`: An interactive, editable programming environment for creating data reports and showcasing data skills
+- `Primary key`: An identifier in a database that references a column in which each value is unique (Refer to foreign key)
+- `Redundancy`: When the same piece of data is stored in two or more places
+- `Schema`: A way of describing how something, such as data, is organized
+- `SELECT`: The section of a query that indicates the subset of a dataset
+- `Structural metadata`: Metadata that indicates how a piece of data is organized and whether it is part of one or more than one data collection
+- `WHERE`: The section of a query that specifies criteria that the requested data must meet
+
 ## Module 4: Organize and protect data
 
 ## Module 5: Engage in the data community
+
+

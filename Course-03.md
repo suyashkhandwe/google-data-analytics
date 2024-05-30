@@ -585,6 +585,40 @@ Following are some of the ky type of information bits metadata typically provide
 
 ## Module 4: Organize and protect data
 
+### Organizing data
+
+There are plenty of best practices you can use when organizing data, including
+  - `naming conventions`
+    - File names should include:
+      - The project’s name
+      - The file creation date
+      - Revision version
+      - Consistent style and order
+  - `foldering`
+  - `archiving older files`
+  - `align naming and storage practices with others`
+  - use `metadata` if it makes sense
+
+### Securing data
+
+- `Data security`: The process of protecting data from unauthorized access or corruption by adding safety measures.
+
+> [!NOTE]
+> - `Encryption` uses a unique algorithm to alter data and make it unusable by users and applications that don’t know the algorithm.
+>   - This algorithm is saved as a "key" which can be used to reverse the encryption; so if you have the key, you can still use the data in its original form.
+> - `Tokenization` replaces the data elements you want to protect with randomly generated data referred to as a "token".
+>   - The original data is stored in a separate location and mapped to the tokens.
+>   - To access the complete original data, the user or application needs to have permission to use the tokenized data and the token mapping.
+>   - This means that even if the tokenized data is hacked, the original data is still safe and secure in a separate location.
+>
+> `Encryption` and `tokenization` are just some of the data security options out there. There are a lot of others, like using `authentication devices` for AI technology.
+
+### Module 4 Glossary
+
+- `Access control`: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet 
+- `Data security`: Protecting data from unauthorized access or corruption by adopting safety measures
+- `Inbox`: Electronic storage where emails received by an individual are held
+
 ## Module 5: Engage in the data community
 
 
